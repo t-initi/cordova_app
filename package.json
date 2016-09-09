@@ -1,0 +1,16 @@
+{
+  "name": "appone",
+  "version": "1.0.0",
+  "description": "files transfer",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thierry Ine",
+  "license": "ISC"
+}
